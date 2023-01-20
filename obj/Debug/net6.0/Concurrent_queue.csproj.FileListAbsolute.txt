@@ -1,0 +1,15 @@
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\bin\Debug\net6.0\Concurrent_queue.exe
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\bin\Debug\net6.0\Concurrent_queue.deps.json
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\bin\Debug\net6.0\Concurrent_queue.runtimeconfig.json
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\bin\Debug\net6.0\Concurrent_queue.dll
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\bin\Debug\net6.0\Concurrent_queue.pdb
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.csproj.AssemblyReference.cache
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.AssemblyInfoInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.AssemblyInfo.cs
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.csproj.CoreCompileInputs.cache
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.dll
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\refint\Concurrent_queue.dll
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.pdb
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\Concurrent_queue.genruntimeconfig.cache
+C:\Users\Meet  Kerasiya\source\repos\Concurrent_queue\Concurrent_queue\obj\Debug\net6.0\ref\Concurrent_queue.dll
